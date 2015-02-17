@@ -9,6 +9,7 @@ buzzers.
 
 TODO: The Usage instructions below assume CraftBukkit.  They will need updates in order to work with CanaryMod.
 TODO: The scripts were written against mid-2014 ScriptCraft/Bukkit and haven't been updated or looked at since...
+TODO: The serial protocol is awful and can never really re-sync if it looses synchronization.
 
 ## About
 
