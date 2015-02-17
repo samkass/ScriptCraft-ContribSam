@@ -3,7 +3,12 @@ The serduino module uses a simplistic serial protocol between JavaScript and an 
 Arduino pins from ScriptCraft.  I had plans to replace the serial protocol with something more advanced, such as
 the one used by "MyRobotLab" but have not yet done so.
 
+I used this during an event at our MakerSpace to get kids into Arduino by tying a real-world button to Minecraft 
+fireworks, a potentiometer to Minecraft time-of-day, and in-game switches and buttons to real-world lights and
+buzzers.
+
 TODO: The Usage instructions below assume CraftBukkit.  They will need updates in order to work with CanaryMod.
+TODO: The scripts were written against mid-2014 ScriptCraft/Bukkit and haven't been updated or looked at since...
 
 ## About
 
